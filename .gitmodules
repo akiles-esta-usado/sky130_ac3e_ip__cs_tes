@@ -1,0 +1,3 @@
+[submodule "scripts/ic-makefile"]
+	path = scripts/ic-makefile
+	url = https://github.com/akiles-esta-usado/ic-makefile.git
